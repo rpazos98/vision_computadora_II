@@ -248,3 +248,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,linux,windows,macos
+
+lemon_dataset/*
+lightning_logs/*
+lemon-quality-dataset.zip
